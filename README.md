@@ -1,2 +1,2 @@
 # Sentiement-Analysis
-Sentiment analysis ussing VADER
+Sentiment analysis using VADER
